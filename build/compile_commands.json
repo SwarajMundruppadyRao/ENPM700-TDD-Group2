@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/lib1",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/myLib1.dir/src.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/src.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/src.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/lib2",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/myLib2.dir/src.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/src.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/src.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/pid",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/pid.dir/PidController.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/PidController.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/PidController.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/app",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/include -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/.  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/app/main.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/app/main.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/test",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/include -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/. -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/include -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/main.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/main.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/main.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/test",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/include -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/. -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/include -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/test.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/test",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/include -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/. -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/include -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/test1.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test1.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test1.cpp"
+},
+{
+  "directory": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/test",
+  "command": "/usr/bin/c++  -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/include -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib1/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/lib2/. -I/home/swaraj/TDD/v1/ENPM700-TDD-Group2/libs/pid/. -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/include -isystem /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest  -g --coverage -fprofile-abs-path -g -std=gnu++14 -o CMakeFiles/cpp-test.dir/test2.cpp.o -c /home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test2.cpp",
+  "file": "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test2.cpp"
+}
+]

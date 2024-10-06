@@ -13,6 +13,7 @@ add_executable(cpp-test
 target_include_directories(cpp-test PUBLIC
   # list of include directories:
   ${CMAKE_SOURCE_DIR}/include
+  
   )
 
 # Any dependent libraires needed to build this target.
@@ -21,6 +22,7 @@ target_link_libraries(cpp-test PUBLIC
   gtest
   myLib1
   myLib2
+  pid
   )
 
 # Enable CMake’s test runner to discover the tests included in the

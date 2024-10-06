@@ -2,7 +2,6 @@
 add_executable(shell-app
   # list of source cpp files:
   main.cpp
-  PID_controller.cpp
   )
 
 # Any include directories needed to build this target.
@@ -18,6 +17,7 @@ target_link_libraries(shell-app PUBLIC
   # list of libraries
   myLib1
   myLib2
+  pid
   )
 
 target_link_options(shell-app PUBLIC
