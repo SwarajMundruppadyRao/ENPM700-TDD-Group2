@@ -125,6 +125,8 @@ if(WANT_COVERAGE)
     EXCLUDE
     "test/test.cpp"    # App does not run unit test, so don't analyze it
     "test/main.cpp"    # App does not run unit test, so don't analyze it
+    "test/test1.cpp"   # App does not run unit test, so don't analyze it
+    "test/test2.cpp"   # App does not run unit test, so don't analyze it
     )
 
 endif()
