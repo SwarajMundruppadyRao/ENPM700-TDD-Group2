@@ -1,25 +1,27 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/test/test1.cpp" "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/CMakeFiles/cpp-test.dir/test1.cpp.o"
+  "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/test/test2.cpp" "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/CMakeFiles/cpp-test.dir/test2.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/main.cpp" "test/CMakeFiles/cpp-test.dir/main.cpp.o" "gcc" "test/CMakeFiles/cpp-test.dir/main.cpp.o.d"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test.cpp" "test/CMakeFiles/cpp-test.dir/test.cpp.o" "gcc" "test/CMakeFiles/cpp-test.dir/test.cpp.o.d"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test1.cpp" "test/CMakeFiles/cpp-test.dir/test1.cpp.o" "gcc" "test/CMakeFiles/cpp-test.dir/test1.cpp.o.d"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/test/test2.cpp" "test/CMakeFiles/cpp-test.dir/test2.cpp.o" "gcc" "test/CMakeFiles/cpp-test.dir/test2.cpp.o.d"
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../include"
+  "../libs/pid/."
+  "_deps/googletest-src/googletest/include"
+  "_deps/googletest-src/googletest"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/lib1/CMakeFiles/myLib1.dir/DependInfo.cmake"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/lib2/CMakeFiles/myLib2.dir/DependInfo.cmake"
-  "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/libs/pid/CMakeFiles/pid.dir/DependInfo.cmake"
+  "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/libs/pid/CMakeFiles/pid.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

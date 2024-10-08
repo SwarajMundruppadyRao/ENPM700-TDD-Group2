@@ -1,4 +1,4 @@
-# Install script for directory: /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src
+# Install script for directory: /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,14 +37,9 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
-endif()
-
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-build/googlemock/cmake_install.cmake")
+  include("/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-build/googlemock/cmake_install.cmake")
 
 endif()
 

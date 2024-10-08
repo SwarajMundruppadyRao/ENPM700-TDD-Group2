@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/pid.dir/PidController.cpp.o"
-  "CMakeFiles/pid.dir/PidController.cpp.o.d"
   "libpid.a"
   "libpid.pdb"
 )

@@ -1,4 +1,4 @@
-# Install script for directory: /home/swaraj/TDD/v1/ENPM700-TDD-Group2/test
+# Install script for directory: /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,10 +35,5 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
-endif()
-
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 

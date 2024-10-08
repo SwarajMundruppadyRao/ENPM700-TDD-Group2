@@ -1,0 +1,57 @@
+Start testing: Oct 08 19:51 EDT
+----------------------------------------------------------
+1/2 Testing: PIDControllerTest.ComputeMethodShouldReturnZeroInitially
+1/2 Test: PIDControllerTest.ComputeMethodShouldReturnZeroInitially
+Command: "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/cpp-test" "--gtest_filter=PIDControllerTest.ComputeMethodShouldReturnZeroInitially" "--gtest_also_run_disabled_tests"
+Directory: /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test
+"PIDControllerTest.ComputeMethodShouldReturnZeroInitially" start time: Oct 08 19:51 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PIDControllerTest.ComputeMethodShouldReturnZeroInitially
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PIDControllerTest
+[ RUN      ] PIDControllerTest.ComputeMethodShouldReturnZeroInitially
+[       OK ] PIDControllerTest.ComputeMethodShouldReturnZeroInitially (0 ms)
+[----------] 1 test from PIDControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PIDControllerTest.ComputeMethodShouldReturnZeroInitially" end time: Oct 08 19:51 EDT
+"PIDControllerTest.ComputeMethodShouldReturnZeroInitially" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: PIDControllerTest.ConstructorShouldInitializeWithoutErrors
+2/2 Test: PIDControllerTest.ConstructorShouldInitializeWithoutErrors
+Command: "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/cpp-test" "--gtest_filter=PIDControllerTest.ConstructorShouldInitializeWithoutErrors" "--gtest_also_run_disabled_tests"
+Directory: /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test
+"PIDControllerTest.ConstructorShouldInitializeWithoutErrors" start time: Oct 08 19:51 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PIDControllerTest.ConstructorShouldInitializeWithoutErrors
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PIDControllerTest
+[ RUN      ] PIDControllerTest.ConstructorShouldInitializeWithoutErrors
+[       OK ] PIDControllerTest.ConstructorShouldInitializeWithoutErrors (0 ms)
+[----------] 1 test from PIDControllerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PIDControllerTest.ConstructorShouldInitializeWithoutErrors" end time: Oct 08 19:51 EDT
+"PIDControllerTest.ConstructorShouldInitializeWithoutErrors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 08 19:51 EDT

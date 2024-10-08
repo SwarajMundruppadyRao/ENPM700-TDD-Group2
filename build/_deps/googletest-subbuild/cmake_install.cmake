@@ -1,4 +1,4 @@
-# Install script for directory: /home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-subbuild
+# Install script for directory: /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-subbuild
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-subbuild/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-subbuild/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

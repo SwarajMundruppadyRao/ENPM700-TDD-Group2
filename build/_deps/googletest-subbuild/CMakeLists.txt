@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file Copyright.txt or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 3.22.1)
+cmake_minimum_required(VERSION 3.16.3)
 
 # We name the project and the target for the ExternalProject_Add() call
 # to something that will highlight to the user what we are working on if
@@ -9,13 +9,11 @@ cmake_minimum_required(VERSION 3.22.1)
 
 project(googletest-populate NONE)
 
-
-
 include(ExternalProject)
 ExternalProject_Add(googletest-populate
                      "UPDATE_DISCONNECTED" "False" "URL" "https://github.com/google/googletest/archive/refs/tags/v1.14.0.zip"
-                    SOURCE_DIR          "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-src"
-                    BINARY_DIR          "/home/swaraj/TDD/v1/ENPM700-TDD-Group2/build/_deps/googletest-build"
+                    SOURCE_DIR          "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-src"
+                    BINARY_DIR          "/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""
@@ -23,5 +21,3 @@ ExternalProject_Add(googletest-populate
                     USES_TERMINAL_DOWNLOAD  YES
                     USES_TERMINAL_UPDATE    YES
 )
-
-
