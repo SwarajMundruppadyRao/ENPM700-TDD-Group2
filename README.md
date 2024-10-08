@@ -56,3 +56,15 @@ Navigator : Harsh Senjaliya
   cmake --build build/ --clean-first --target all test_coverage
 # open a web browser to browse the test coverage report
   open build/test_coverage/index.html
+
+
+## UML Diagram
+![UML](https://github.com/user-attachments/assets/afa13b8e-39f4-4151-af9f-686e42f85da0)
+
+## Activity Diagram
+
+![activitydiagram](https://github.com/user-attachments/assets/e75d9d56-d9cc-4c88-872b-9f5a049c72ea)
+
+
+
+
