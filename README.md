@@ -13,8 +13,13 @@
 
 ENPM700 Software Development for Robotics, Test Driven Development exercise. Task is to implement a PID controller for a new mobile robot product development
 
-Driver : Swaraj Mundruppady Rao </br>
-Navigator : Abhishek Avhad 
+| Part   | Role       | Name                        |
+|--------|------------|-----------------------------|
+| Part 1 | Driver     | Swaraj Mundruppady Rao      |
+| Part 1 | Navigator  | Abhishek Avhad              |
+| Part 2 | Driver     | Abhishek Avhad       |
+| Part 2 | Navigator  | Swaraj Mundruppady Rao   |
+
 
 
 ## Standard install via command-line
