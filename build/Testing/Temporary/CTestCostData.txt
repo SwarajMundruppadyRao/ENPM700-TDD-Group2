@@ -1,3 +1,0 @@
-PIDControllerTest.ComputeMethodShouldReturnZeroInitially 1 0.00120388
-PIDControllerTest.ConstructorShouldInitializeWithoutErrors 1 0.00113494
----

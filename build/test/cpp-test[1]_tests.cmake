@@ -1,5 +1,0 @@
-add_test( PIDControllerTest.ComputeMethodShouldReturnZeroInitially /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/cpp-test [==[--gtest_filter=PIDControllerTest.ComputeMethodShouldReturnZeroInitially]==] --gtest_also_run_disabled_tests)
-set_tests_properties( PIDControllerTest.ComputeMethodShouldReturnZeroInitially PROPERTIES WORKING_DIRECTORY /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test)
-add_test( PIDControllerTest.ConstructorShouldInitializeWithoutErrors /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test/cpp-test [==[--gtest_filter=PIDControllerTest.ConstructorShouldInitializeWithoutErrors]==] --gtest_also_run_disabled_tests)
-set_tests_properties( PIDControllerTest.ConstructorShouldInitializeWithoutErrors PROPERTIES WORKING_DIRECTORY /home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/test)
-set( cpp-test_TESTS PIDControllerTest.ComputeMethodShouldReturnZeroInitially PIDControllerTest.ConstructorShouldInitializeWithoutErrors)
