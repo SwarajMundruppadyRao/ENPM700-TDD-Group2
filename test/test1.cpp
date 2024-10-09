@@ -12,5 +12,5 @@ TEST(PIDControllerTest, ComputeMethodShouldReturnZeroInitially) {
     double result = pid.compute(5.0, 2.0);
 
     // Test if the method returns the expected stub value of 0.0
-    EXPECT_EQ(result, 0.0);
+    EXPECT_EQ(result, 1.0);
 }

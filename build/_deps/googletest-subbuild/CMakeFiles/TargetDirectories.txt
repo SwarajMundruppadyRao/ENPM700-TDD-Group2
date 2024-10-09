@@ -1,3 +1,0 @@
-/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
-/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/home/swarajmrao/ENPM700/v2/ENPM700-TDD-Group2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir

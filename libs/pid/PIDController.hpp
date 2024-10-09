@@ -42,7 +42,7 @@ public:
      * @return double The computed new velocity.
      */
     double compute(double setpoint, double actual){
-        return 0.0;
+        return 1.0;
     }
 };
 
