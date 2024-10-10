@@ -1,0 +1,4 @@
+dhairya@dhairya:~/Desktop/ENPM700-TDD-Group2$ cpplint --filter="-legal/copyright" $( find . -name *.cpp | grep -v "/build/" )
+Done processing ./app/main.cpp
+Done processing ./libs/pid/PidController.cpp
+Done processing ./test/test.cpp
